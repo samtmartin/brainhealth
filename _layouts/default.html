@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title | default: "Brain Health Protocol" }}</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <main class="markdown-body">
+    {{ content }}
+  </main>
+
+  <script>
+    // Make external links open in new tab.
+    document.addEventListener('DOMContentLoaded', function() {
+      const links = document.querySelectorAll('a[href]');
+      const currentHost = window.location.hostname;
+
+      links.forEach(function(link) {
+        const href = link.getAttribute('href');
+        if (href.startsWith('#') || href.startsWith('/') || href.startsWith('./')) {
+          return;
+        }
+        try {
+          const url = new URL(href, window.location.origin);
+          if (url.hostname !== currentHost) {
+            link.setAttribute('target', '_blank');
+            link.setAttribute('rel', 'noopener noreferrer');
+          }
+        } catch (e) {
+          // Not a valid URL, skip.
+        }
+      });
+    });
+  </script>
+</body>
+</html>
