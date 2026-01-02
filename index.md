@@ -513,7 +513,7 @@ Why:
 
 * Randomized controlled trials suggest that ketogenic therapies can general cognition and memory in subjects with MCI and early-stage Alzheimer’s disease[1]
 
-**Pattern[2]:**
+**Pattern Definition[2]**
 
 | Macronutrient profile |  |
 | :---- | :---- |
@@ -561,7 +561,7 @@ Why:
 * Mediterranean diet and lifestyle are associated with cognitive longevity. For example, Southern Italians who carry ApoE4 and live in Italy exhibit a normal rate of living to be in the oldest 1% of the population. However, Southern Italians who carry ApoE4, but who live in the United States exhibit a highly reduced chance of living into late old age[3]  
 * Mediterranean style diet when followed by people with two copies of ApoE4 may lower risk of dementia by 35% [4; 4:00]
 
-**Pattern[5]:**
+**Pattern Definition[5]**
 
 | What to eat |  |
 | :---- | :---- |
@@ -586,7 +586,7 @@ Why:
 
 * Study suggests that patients with high adherence to MIND diet may have a relative dementia risk reduction of 50%[1]
 
-**Pattern[2]:**
+**Pattern Definition[2]**
 
 | What to eat |  |
 | :---- | :---- |
