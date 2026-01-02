@@ -17,7 +17,7 @@ The following protocol addresses this question. It is organized by category, wit
   - [Hearing](#hearing)
   - [Oral Health](#oral-health)
   - [Other Interventions](#other-interventions)
-- [Protocol Appendix](#protocol-appendix)
+- [Appendix](#appendix)
   - [Exercise Detail](#exercise-detail)
   - [Health Marker Management Strategies](#health-marker-management-strategies)
   - [Sleep Improvement Strategies](#sleep-improvement-strategies)
@@ -36,7 +36,7 @@ Dr. Peter Attia and Dr. Richard Isaacson consider exercise the most effective wa
 💪 **More is better**: in general, higher levels of regular exercise are associated with better cognitive outcomes\[7\]; a large study suggests that grip strength (excellent proxy for overall strength) was strongly and inversely associated with incidence of dementia and there there is no upper limit to relationship (greater someone’s grip strength, the lower their risk of dementia)\[2\]\[8\]; a large study suggests that cardiorespiratory fitness is inversely associated with long-term mortality with no observed upper limit of benefit\[9\]  
 💪 **Mix zone 2, HIIT/VO2 max, strength training**: a meta analysis performed by Dr. Peter Attia suggests that the most effective types of exercise for delaying/preventing cognitive decline are aerobic, resistance, and mind-body or “multi-component” exercises\[6\]
 
-See [Protocol Appendix > Exercise Detail](#exercise-detail) for additional information.
+See [Appendix > Exercise Detail](#exercise-detail) for additional information.
 
 Sources:  
 \[1\] \[How to Save Your Brain From Cognitive Decline \- Dr Peter Attia\](https://www.youtube.com/watch?v=ThgschADQyQ) (5/17/2023)  
@@ -61,7 +61,7 @@ Dr. Peter Attia considers lipid management (see LDL cholesterol below) and not h
 🩸 **LDL cholesterol:** below 50; positive effects start below 70\[2\]  
 🩸 **Fasting glucose:** below 95\[2\]
 
-See [Protocol Appendix > Health Marker Management Strategies](#health-marker-management-strategies) for additional information.
+See [Appendix > Health Marker Management Strategies](#health-marker-management-strategies) for additional information.
 
 Sources:  
 \[1\] \[How to Save Your Brain From Cognitive Decline \- Dr Peter Attia\](https://www.youtube.com/watch?v=ThgschADQyQ) (5/17/2023)  
@@ -73,7 +73,7 @@ Sources:
 🩸 **Vitamin D:** 40-60 ng/mL with 50 ng/mL potentially being ideal\[1\]\[2\]  
 🩸 **Omega-3 Index (a blood test of EPA+DHA as % of total fatty acids):** 8-12%\[3\]
 
-See [Protocol Appendix > Health Marker Management Strategies](#health-marker-management-strategies) for additional information.
+See [Appendix > Health Marker Management Strategies](#health-marker-management-strategies) for additional information.
 
 Sources:  
 \[1\] \[AMA \#46: Optimizing brain health: Alzheimer’s disease risk factors, APOE, prevention strategies, and more\](https://peterattiamd.com/ama46/) (4/17/2023)  
@@ -100,7 +100,7 @@ Other things to note:
 * Successfully treating sleep disturbance may delay the age of onset into MCI by about 11 years and may improve cognitive function in patients already diagnosed with Alzheimer’s\[3\]  
 * Research points to the forties and sixties as the decades of life when deep sleep is especially important for the prevention of Alzheimer’s disease. People who have slept less during those decades seem to be at higher risk of developing dementia later on\[3\]
 
-See [Protocol Appendix > Sleep Improvement Strategies](#sleep-improvement-strategies) for additional information.
+See [Appendix > Sleep Improvement Strategies](#sleep-improvement-strategies) for additional information.
 
 Sources:  
 \[1\] \[How to Save Your Brain From Cognitive Decline \- Dr Peter Attia\](https://www.youtube.com/watch?v=ThgschADQyQ) (5/17/2023)  
@@ -168,7 +168,7 @@ There have been no long-term human studies conducted to determine effective nutr
 🟢 **Eat plant-based fats (e.g. avocado, seeds, hazelnuts, almonds):** Dr. Richard Isaacson believes that nuts are great for brain health\[3\]; 2 tablespoons of nuts per day\[14\] and/or 5 or more servings of plant-based fats per week\[10\]  
 🟢 **Eat lean, grass-fed, unprocessed protein:** Dr. Richard Isaacson recommends consuming lean, unprocessed protein \[9; 25:20\]\[3\]
 
-The most common patterns associated with brain health are Ketogenic, Mediterranean, and MIND (alpha-sorted). See [Protocol Appendix > Nutrition Patterns](#nutrition-patterns) for information.
+The most common patterns associated with brain health are Ketogenic, Mediterranean, and MIND (alpha-sorted). See [Appendix > Nutrition Patterns](#nutrition-patterns) for information.
 
 Sources:  
 \[1\] \[AMA \#46: Optimizing brain health: Alzheimer’s disease risk factors, APOE, prevention strategies, and more\](https://peterattiamd.com/ama46/) (4/17/2023)  
@@ -390,7 +390,7 @@ Todo
 
 Todo
 
-# Protocol Appendix
+# Appendix
 
 ## Exercise Detail
 
