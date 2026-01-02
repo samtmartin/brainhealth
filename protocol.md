@@ -2,6 +2,8 @@
 
 This document tries to answer the following question: if you want to delay/prevent cognitive decline, what should you be doing on a daily basis?
 
+The following protocol addresses this question. It is organized by category, with recommendations identified by emojis and bold font.
+
 # Table of Contents
 
 - [Protocol](#protocol)
@@ -24,9 +26,7 @@ This document tries to answer the following question: if you want to delay/preve
 
 # Protocol
 
-The protocol is organized by estimated impact, most to least. I have no medical training or expertise in critically evaluating research methodology to assess whether a study's design supports its stated conclusions. The estimates are based on how frequently and prominently each intervention appears in content produced by individuals with both medical expertise and training in research evaluation. Some or all of these interventions may have no positive benefit.
-
-The protocol is primarily built from recommendations by Dr. Richard Isaacson (preventative neurologist) and Dr. Peter Attia (physician who studies the science of extending healthspan and lifespan), supported by peer-reviewed clinical research studies.
+The protocol is organized by estimated impact, drawing primarily from Dr. Richard Isaacson (preventative neurologist) and Dr. Peter Attia (physician who studies the science of extending healthspan and lifespan), with support from peer-reviewed research.
 
 ## Exercise
 
