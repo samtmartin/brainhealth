@@ -18,7 +18,7 @@ The following protocol addresses this question. It is organized by category, wit
   - [Oral Health](#oral-health)
   - [Other Interventions](#other-interventions)
 - [Appendix](#appendix)
-  - [Exercise Detail](#exercise-detail)
+  - [Exercise Details](#exercise-details)
   - [Health Marker Management Strategies](#health-marker-management-strategies)
   - [Sleep Improvement Strategies](#sleep-improvement-strategies)
   - [Nutrition Patterns](#nutrition-patterns)
@@ -36,7 +36,7 @@ Dr. Peter Attia and Dr. Richard Isaacson consider exercise the most effective wa
 💪 **More is better**: in general, higher levels of regular exercise are associated with better cognitive outcomes[7]; a large study suggests that grip strength (excellent proxy for overall strength) was strongly and inversely associated with incidence of dementia and there there is no upper limit to relationship (greater someone’s grip strength, the lower their risk of dementia)[2][8]; a large study suggests that cardiorespiratory fitness is inversely associated with long-term mortality with no observed upper limit of benefit[9]  
 💪 **Mix zone 2, HIIT/VO2 max, strength training**: a meta analysis performed by Dr. Peter Attia suggests that the most effective types of exercise for delaying/preventing cognitive decline are aerobic, resistance, and mind-body or “multi-component” exercises[6]
 
-See [Appendix > Exercise Detail](#exercise-detail) for additional information.
+See [Appendix > Exercise Details](#exercise-details) for additional information.
 
 Sources:  
 [1] [How to Save Your Brain From Cognitive Decline - Dr Peter Attia](https://www.youtube.com/watch?v=ThgschADQyQ) (5/17/2023)  
@@ -392,7 +392,7 @@ Todo
 
 # Appendix
 
-## Exercise Detail
+## Exercise Details
 
 There have been no long-term randomized controlled human trials that definitively establish a specific exercise program for preventing cognitive decline. Most large-scale exercise studies focus on reductions in all-cause mortality. However, this evidence is still indirectly and mechanistically relevant to dementia risk, because the strongest drivers of mortality reduction (improved cardiovascular fitness, metabolic health, and vascular function) are also key determinants of brain health and dementia risk.
 
