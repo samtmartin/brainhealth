@@ -609,4 +609,4 @@ Sources:
 
 # Changes
 
-If you would like to propose a change, submit a pull request to https://github.com/samtmartin/brainhealth or reach out at https://www.linkedin.com/in/sammartin1/.
+If you would like to propose a change, submit a pull request [here](https://github.com/samtmartin/brainhealth) or reach out [here](https://www.linkedin.com/in/sammartin1).
