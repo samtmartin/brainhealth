@@ -1,8 +1,6 @@
 title: Brain Health Protocol
 description: Evidence-based protocol for preventing cognitive decline
 
-theme: minima
-
 markdown: kramdown
 kramdown:
   input: GFM
@@ -11,7 +9,3 @@ kramdown:
 relative_links:
   enabled: true
   collections: false
-
-plugins:
-  - jekyll-relative-links
-  - jekyll-optional-front-matter
