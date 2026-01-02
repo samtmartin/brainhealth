@@ -1,6 +1,3 @@
-title: Brain Health Protocol
-description: Evidence-based protocol for preventing cognitive decline
-
 markdown: kramdown
 kramdown:
   input: GFM
