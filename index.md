@@ -4,7 +4,7 @@ The following protocol outlines evidence-based strategies for delaying or preven
 
 # Protocol
 
-The protocol is organized by category and estimated impact, with recommendations marked by emojis and bold font. It draws primarily from Dr. Richard Isaacson (preventative neurologist) and Dr. Peter Attia (physician studying healthspan and lifespan), with support from peer-reviewed research.
+The protocol is organized by category and estimated impact, with recommendations marked by emojis. It draws primarily from Dr. Richard Isaacson (preventative neurologist) and Dr. Peter Attia (physician studying healthspan and lifespan), with support from peer-reviewed research.
 
 ## TLDR
 
@@ -185,7 +185,7 @@ Finding an optimal nutrition program requires blood tests and the use of a CGM (
 
 There have been no long-term human studies conducted to determine effective nutrition patterns for preventing cognitive decline. The below food and dose recommendations are largely based on observational data and clinical experience rather than rigorous clinical trials.
 
-🔴 **Limit added sugar:** Dr. Richard Isaacson guides patients to <10-20g of added sugar per day[3]; higher sugar intake is associated with worse cognitive outcomes[11]; study found that AD incidence was twice as high in Africans living in the United States compared to those in Nigeria (despite high ApoE4 prevalence), where sugar consumption is one-quarter that of Americans[12]
+🔴 **Limit added sugar:** Dr. Richard Isaacson guides patients to <10-20g of added sugar per day[3]; higher sugar intake is associated with worse cognitive outcomes[11]; study found that AD incidence was twice as high in Africans living in the United States compared to those in Nigeria (despite high ApoE4 prevalence), where sugar consumption is one-quarter that of Americans[12]  
 🔴 **Avoid highly refined carbohydrates:** Dr. Peter Attia recommends patients cut out highly-refined carbohydrates[13]; rule of thumb: if it's made from white flour or added sugar, it's a highly-refined carbohydrate  
 🔴 **Avoid ultra-processed foods (especially those with trans fats):** Dr. Richard Isaacson recommends avoiding ultra-processed foods[9; 26:50][3]; rule of thumb: an ultra-processed food is a food you couldn’t make in your kitchen, if you tried[9]; trans fats are among the most brain unhealthy foods that we know of[3]; rule of thumb: if the ingredient list includes “partially hydrogenated oils”, the product contains trans fats 
 
@@ -207,12 +207,12 @@ Sources:
 [7] [Outlive (Chapter 15: Putting Nutritional Biochemistry into Practice)](https://peterattiamd.com/outlive/) (4/4/2022)  
 [8] [Caloric Intake and the Risk of Alzheimer Disease](https://jamanetwork.com/journals/jamaneurology/fullarticle/782575) (August 2002)  
 [9] [Ask a Brain Doctor Live Q&A with Richard Isaacson, MD + Max Lugavere](https://www.youtube.com/watch?v=b8tC0zip5Hc) (9/10/2025)  
-[10] [Brain Health & Dementia Risk Reduction](https://practicalneurology.com/diseases-diagnoses/alzheimer-disease-dementias/brain-health-dementia-risk-reduction/31540/) (5/31/2019)
-[11] [Associations of sugar intake, high-sugar dietary pattern, and the risk of dementia: a prospective cohort study of 210,832 participants](https://link.springer.com/article/10.1186/s12916-024-03525-6) (7/18/2024)
-[12] [Precision Nutrition for Alzheimer's Prevention in ApoE4 Carriers](https://www.mdpi.com/2072-6643/13/4/1362) (3/5/2021)
-[13] [Outlive (Chapter 9: Chasing Memory)](https://peterattiamd.com/outlive/) (4/4/2022)
-[14] [Retain Health (company that Dr. Richard Isaacson founded and is clinical advisor to): nutrition routines](https://retainyourbrain.com/)
-[15] [Dietary intakes of berries and flavonoids in relation to cognitive decline](https://pubmed.ncbi.nlm.nih.gov/22535616/) (July 2012)
+[10] [Brain Health & Dementia Risk Reduction](https://practicalneurology.com/diseases-diagnoses/alzheimer-disease-dementias/brain-health-dementia-risk-reduction/31540/) (5/31/2019)  
+[11] [Associations of sugar intake, high-sugar dietary pattern, and the risk of dementia: a prospective cohort study of 210,832 participants](https://link.springer.com/article/10.1186/s12916-024-03525-6) (7/18/2024)  
+[12] [Precision Nutrition for Alzheimer's Prevention in ApoE4 Carriers](https://www.mdpi.com/2072-6643/13/4/1362) (3/5/2021)  
+[13] [Outlive (Chapter 9: Chasing Memory)](https://peterattiamd.com/outlive/) (4/4/2022)  
+[14] [Retain Health (company that Dr. Richard Isaacson founded and is clinical advisor to): nutrition routines](https://retainyourbrain.com/)  
+[15] [Dietary intakes of berries and flavonoids in relation to cognitive decline](https://pubmed.ncbi.nlm.nih.gov/22535616/) (July 2012)  
 
 ## Vitamins and Supplements
 
