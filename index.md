@@ -43,8 +43,8 @@ The protocol is organized by category and estimated impact, with recommendations
     - 🔴 Avoid highly refined carbohydrates
     - 🔴 Avoid ultra-processed foods (especially those with trans fats)
     - 🟢 Eat dark leafy green vegetables: 6 or more servings per week
-    - 🟢 Eat fatty fish (polyunsaturated fats): 2 servings per week
-    - 🟢 Consume extra virgin olive oil (monounsaturated fats): 2-3 tablespoons per day
+    - 🟢 Eat fatty fish: 2 servings per week
+    - 🟢 Consume extra virgin olive oil: 2-3 tablespoons per day
     - 🟢 Eat blueberries and strawberries: ~0.5 cups 2-3x per week
     - 🟢 Eat plant-based fats (e.g. avocado, seeds, hazelnuts, almonds): 2 tablespoons per day  
 
