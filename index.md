@@ -8,25 +8,30 @@ The protocol is organized by category and estimated impact, with recommendations
 
 ## TLDR
 
-- [Exercise](#exercise)
+**[Exercise](#exercise)**
   - 💪 Even a little bit helps
   - 💪 More is better
   - 💪 Mix zone 2, HIIT/VO2 max, strength training
-- [Health Markers](#health-markers)
+
+**[Health Markers](#health-markers)**
   - 🩸 Blood pressure: 120/70
   - 🩸 LDL cholesterol: below 50 (positive effects start below 70)
   - 🩸 Fasting glucose: below 95
   - 🩸 Homocysteine: below 9 µmol/L
   - 🩸 Vitamin D: 50 ng/mL
   - 🩸 Omega-3 Index: 8-12%
-- [Sleep](#sleep)
+
+**[Sleep](#sleep)**
   - 💤 7.5-8.5 hours of undisturbed sleep
   - 💤 Adequate deep and REM sleep (1.5 hours each)
-- [Smoking](#smoking)
+
+**[Smoking](#smoking)**
   - 🔴 Do not smoke
-- [Alcohol](#alcohol)
+
+**[Alcohol](#alcohol)**
   - 🔴 Limit alcohol (especially if you are an ApoE4 carrier)
-- [Nutrition](#nutrition)
+
+**[Nutrition](#nutrition)**
   - Principles
     - 🧩 Minimize fasting glucose 
     - 🧩 Minimize glucose spikes 
@@ -42,7 +47,8 @@ The protocol is organized by category and estimated impact, with recommendations
     - 🟢 Consume extra virgin olive oil (monounsaturated fats): 2-3 tablespoons per day
     - 🟢 Eat blueberries and strawberries: ~0.5 cups 2-3x per week
     - 🟢 Eat plant-based fats (e.g. avocado, seeds, hazelnuts, almonds): 2 tablespoons per day  
-- [Vitamins and Supplements](#vitamins-and-supplements)
+
+**[Vitamins and Supplements](#vitamins-and-supplements)**
   - 💊 B12, B9/Folate, B6 vitamins (when homocysteine elevated)
   - 💊 Vitamin D (if deficient)
   - 💊 Omega-3 Fatty Acids (if deficient)
