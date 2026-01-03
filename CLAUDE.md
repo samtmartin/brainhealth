@@ -9,6 +9,12 @@ This is a brain health research repository focused on cognitive decline preventi
 ## Repository Structure
 
 - `index.md` - Main protocol document with interventions organized by estimated impact (exercise, target blood levels, sleep, smoking, alcohol, nutrition, vitamins/supplements)
+- `_layouts/` - Jekyll layout templates for GitHub Pages
+  - `default.html` - Main layout with GitHub-flavored markdown styling and external link handling
+- `assets/css/` - Custom stylesheets
+  - `style.css` - Responsive layout styling (centered, max-width 800px)
+- `_config.yml` - Jekyll/GitHub Pages configuration
+- `CNAME` - Custom domain configuration (brainhealth.dev)
 - `notes/` - Supporting research notes (gitignored)
 - `transcripts/` - Source transcripts (gitignored)
 
@@ -35,6 +41,16 @@ When editing or adding to this repository:
 4. **Citation format**: Inline citations use [number] with full sources listed at end of each section
 5. **Organized by impact**: Protocol sections are ordered by estimated effectiveness, not alphabetically
 6. **Caveats included**: When research is inconclusive or controversial, include "Caveats" subsections
+
+## GitHub Pages Hosting
+
+This repository is published to GitHub Pages at https://brainhealth.dev. The site uses:
+- Jekyll for static site generation with kramdown markdown processor
+- GitHub-flavored markdown CSS for content styling
+- Custom responsive layout centered at 800px max-width
+- Automatic external link handling (opens in new tabs)
+
+When editing layouts or styles, test changes locally with Jekyll if possible before committing.
 
 ## Git Workflow
 
