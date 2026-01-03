@@ -188,7 +188,6 @@ There have been no long-term human studies conducted to determine effective nutr
 🟢 **Consume extra virgin olive oil (monounsaturated fats):** Dr. Richard Isaacson believes EVOO is one of the most powerful things people can do to optimize brain health[9; 12:00][3]; 2-3 tablespoons per day[14]  
 🟢 **Eat blueberries and strawberries:** study suggests consuming >0.5 cup of blueberries or strawberries 2-3x per week can delay cognitive decline by >2.5 years[15]  
 🟢 **Eat plant-based fats (e.g. avocado, seeds, hazelnuts, almonds):** Dr. Richard Isaacson believes that nuts are great for brain health[3]; 2 tablespoons of nuts per day[14] and/or 5 or more servings of plant-based fats per week[10]  
-🟢 **Eat lean, grass-fed, unprocessed protein:** Dr. Richard Isaacson recommends consuming lean, unprocessed protein [9; 25:20][3]
 
 The most common patterns associated with brain health are Ketogenic, Mediterranean, and MIND (alpha-sorted). See [Appendix > Nutrition Patterns](#nutrition-patterns) for information.
 
