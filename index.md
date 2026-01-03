@@ -36,7 +36,7 @@ The protocol is organized by category and estimated impact, with recommendations
     - 🧩 Minimize fasting glucose 
     - 🧩 Minimize glucose spikes 
     - 🧩 Maintain energy balance (calories consumed = calories expended)
-    - 🧩 Personalize  
+    - 🧩 Personalize (based on your biomarkers)
     - 🧩 Avoid harm first (bad nutrition may hurt more than good nutrition helps)
   - Food
     - 🔴 Limit added sugar: <10-20g per day
