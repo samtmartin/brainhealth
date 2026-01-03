@@ -49,7 +49,7 @@ The protocol is organized by category and estimated impact, with recommendations
     - 🟢 Eat plant-based fats (e.g. avocado, seeds, hazelnuts, almonds): 2 tablespoons per day  
 
 **[Vitamins and Supplements](#vitamins-and-supplements)**
-  - 💊 B12, B9/Folate, B6 vitamins (when homocysteine elevated)
+  - 💊 B12, B9/Folate, B6 Vitamins (when homocysteine elevated)
   - 💊 Vitamin D (if deficient)
   - 💊 Omega-3 Fatty Acids (if deficient)
   - 💊 Theracurmin/Curcumin (consult physician; contraindications exist)
