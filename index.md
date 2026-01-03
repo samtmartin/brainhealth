@@ -2,29 +2,53 @@
 
 The following protocol outlines evidence-based strategies for delaying or preventing cognitive decline.
 
-# Table of Contents
-
-- [Protocol](#protocol)
-  - [Exercise](#exercise)
-  - [Health Markers](#health-markers)
-  - [Sleep](#sleep)
-  - [Smoking](#smoking)
-  - [Alcohol](#alcohol)
-  - [Nutrition](#nutrition)
-  - [Vitamins and Supplements](#vitamins-and-supplements)
-  - [Hearing](#hearing)
-  - [Oral Health](#oral-health)
-  - [Other Interventions](#other-interventions)
-- [Appendix](#appendix)
-  - [Exercise Details](#exercise-details)
-  - [Health Marker Management Strategies](#health-marker-management-strategies)
-  - [Sleep Improvement Strategies](#sleep-improvement-strategies)
-  - [Nutrition Patterns](#nutrition-patterns)
-- [Changes](#changes)
-
 # Protocol
 
 The protocol is organized by category and estimated impact, with recommendations marked by emojis and bold font. It draws primarily from Dr. Richard Isaacson (preventative neurologist) and Dr. Peter Attia (physician studying healthspan and lifespan), with support from peer-reviewed research.
+
+## TLDR
+
+- [Exercise](#exercise)
+  - 💪 Even a little bit helps
+  - 💪 More is better
+  - 💪 Mix zone 2, HIIT/VO2 max, strength training
+- [Health Markers](#health-markers)
+  - 🩸 Blood pressure: 120/70
+  - 🩸 LDL cholesterol: below 50 (positive effects start below 70)
+  - 🩸 Fasting glucose: below 95
+  - 🩸 Homocysteine: below 9 µmol/L
+  - 🩸 Vitamin D: 50 ng/mL
+  - 🩸 Omega-3 Index: 8-12%
+- [Sleep](#sleep)
+  - 💤 7.5-8.5 hours of undisturbed sleep
+  - 💤 Adequate deep and REM sleep (1.5 hours each)
+- [Smoking](#smoking)
+  - 🔴 Do not smoke
+- [Alcohol](#alcohol)
+  - 🔴 Limit alcohol (especially if you are an ApoE4 carrier)
+- [Nutrition](#nutrition)
+  - Principles
+    - 🧩 Minimize fasting glucose 
+    - 🧩 Minimize glucose spikes 
+    - 🧩 Maintain energy balance (calories consumed = calories expended)
+    - 🧩 Personalize  
+    - 🧩 Avoid harm first (bad nutrition may hurt more than good nutrition helps)
+  - Food
+    - 🔴 Limit added sugar: <10-20g per day
+    - 🔴 Avoid highly refined carbohydrates
+    - 🔴 Avoid ultra-processed foods (especially those with trans fats)
+    - 🟢 Eat dark leafy green vegetables: 6 or more servings per week
+    - 🟢 Eat fatty fish (polyunsaturated fats): 2 servings per week
+    - 🟢 Consume extra virgin olive oil (monounsaturated fats): 2-3 tablespoons per day
+    - 🟢 Eat blueberries and strawberries: ~0.5 cups 2-3x per week
+    - 🟢 Eat plant-based fats (e.g. avocado, seeds, hazelnuts, almonds): 2 tablespoons per day  
+- [Vitamins and Supplements](#vitamins-and-supplements)
+  - 💊 B12, B9/Folate, B6 vitamins (when homocysteine elevated)
+  - 💊 Vitamin D (if deficient)
+  - 💊 Omega-3 Fatty Acids (if deficient)
+  - 💊 Theracurmin/Curcumin (consult physician; contraindications exist)
+  - 💊 Cocoa Flavanols
+  - 💊 Magnesium L-Threonate
 
 ## Exercise
 
