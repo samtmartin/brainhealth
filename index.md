@@ -155,7 +155,7 @@ Finding an optimal nutrition program requires blood tests and the use of a CGM (
 
 There have been no long-term human studies conducted to determine effective nutrition patterns for preventing cognitive decline. The below food and dose recommendations are largely based on observational data and clinical experience rather than rigorous clinical trials.
 
-🔴 **Limit added sugar:** Dr. Richard Isaacson guides patients to <10-20g of added sugar per day[3]; higher sugar intake is associated with worse cognitive outcomes[11]; Nigerians consume one-quarter of the amount of sugar that Americans consume and exhibit low rates of AD despite a high prevalence of ApoE4[12]  
+🔴 **Limit added sugar:** Dr. Richard Isaacson guides patients to <10-20g of added sugar per day[3]; higher sugar intake is associated with worse cognitive outcomes[11]; study found that AD incidence was twice as high in Africans living in the United States compared to those in Nigeria (despite high ApoE4 prevalence), where sugar consumption is one-quarter that of Americans[12]
 🔴 **Avoid highly refined carbohydrates:** Dr. Peter Attia recommends patients cut out highly-refined carbohydrates[13]; rule of thumb: if it's made from white flour or added sugar, it's a highly-refined carbohydrate  
 🔴 **Avoid ultra-processed foods (especially those with trans fats):** Dr. Richard Isaacson recommends avoiding ultra-processed foods[9; 26:50][3]; rule of thumb: an ultra-processed food is a food you couldn’t make in your kitchen, if you tried[9]; trans fats are among the most brain unhealthy foods that we know of[3]; rule of thumb: if the ingredient list includes “partially hydrogenated oils”, the product contains trans fats 
 
