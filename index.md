@@ -56,6 +56,11 @@ The protocol is organized by category and estimated impact, with recommendations
   - 💊 Cocoa Flavanols
   - 💊 Magnesium L-Threonate
 
+**[Oral Health](#oral-health)**
+  - 🦷 Brush twice daily for two minutes with an electric toothbrush
+  - 🦷 Floss daily
+  - 🦷 Monitor gum health and visit the dentist regularly for thorough check-ups
+
 ## Exercise
 
 Dr. Peter Attia and Dr. Richard Isaacson consider exercise the most effective way to protect against cognitive decline.[1][2][3]
@@ -379,11 +384,29 @@ Sources:
 [3] [Ask a Brain Doctor Live Q&A with Richard Isaacson, MD + Max Lugavere](https://www.youtube.com/watch?v=b8tC0zip5Hc) (33:30; 9/10/2025)  
 [4] [Dr Peter Attia - Top 5 Supplements To Help You Feel Your Best](https://www.youtube.com/watch?v=cepkTUQPAj4) (4/17/2024)
 
-## Hearing
-
-Todo
-
 ## Oral Health
+
+🦷 **Brush twice daily for two minutes with an electric toothbrush**[1]  
+🦷 **Floss daily**[1]  
+🦷 **Monitor gum health and visit the dentist regularly for thorough check-ups**[2]  
+
+Why:
+
+* A large epidemiologic analysis found that periodontitis (gum disease) was associated with approximately a 1.7x increased risk of developing Alzheimer’s disease[3] and may factor into other neurodegenerative diseases[1]
+  * Potential mechanism: Periodontal disease drives chronic systemic inflammation; key gum-disease bacteria (e.g. P. gingivalis) increase inflammatory markers such as IL-6, and their toxins have been found in the brain, where they may promote neuroinflammation and accelerate AD[4][5]
+
+Caveats:
+
+* While there's a strong correlation between poor oral health and major health issues, the causal relationship isn't proven[2]
+
+Sources:  
+[1] [AMA #46: Optimizing brain health: Alzheimer's disease risk factors, APOE, prevention strategies, and more](https://peterattiamd.com/ama46/) (4/17/2023)  
+[2] [AMA #59: Inflammation: its impact on aging and disease risk, and how to identify, prevent, and reduce it](https://peterattiamd.com/ama59/) (5/13/2024)  
+[3] [Periodontal Disease and Alzheimer's: Insights from a Systematic Literature Network Analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11266257/) (4/19/2022)  
+[4] [Porphyromonas gingivalis in Alzheimer’s disease brains: Evidence for disease causation and treatment with small-molecule inhibitors](https://www.science.org/doi/10.1126/sciadv.aau3333) (1/23/2019)  
+[5] [Systemic inflammation and disease progression in Alzheimer disease](https://pmc.ncbi.nlm.nih.gov/articles/PMC2848584/) (9/8/2009)  
+
+## Hearing
 
 Todo
 
