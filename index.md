@@ -4,7 +4,7 @@ The following protocol outlines evidence-based strategies for delaying or preven
 
 # Protocol
 
-The protocol is organized by category and estimated impact, with recommendations marked by emojis. It draws primarily from Dr. Richard Isaacson (preventative neurologist) and Dr. Peter Attia (physician studying healthspan and lifespan), with support from peer-reviewed research.
+The protocol is organized by category and estimated impact, with recommendations marked by emojis. It draws primarily from statements made by Dr. Richard Isaacson (preventative neurologist) and Dr. Peter Attia (physician studying healthspan and lifespan), with support from peer-reviewed research.
 
 ## TLDR
 
