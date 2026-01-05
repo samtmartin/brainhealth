@@ -392,8 +392,8 @@ Sources:
 
 Why:
 
-* A large epidemiologic analysis found that periodontitis (gum disease) was associated with approximately a 1.7x increased risk of developing Alzheimer’s disease[3] and may factor into other neurodegenerative diseases[1]
-  * Potential mechanism: Periodontal disease drives chronic systemic inflammation; key gum-disease bacteria (e.g. P. gingivalis) increase inflammatory markers such as IL-6, and their toxins have been found in the brain, where they may promote neuroinflammation and accelerate AD[4][5]
+* A large epidemiologic analysis found that periodontitis (gum disease) was associated with approximately a 1.7x increased risk of developing AD[3] and may factor into other neurodegenerative diseases[1]
+  * Potential mechanism: periodontal disease drives chronic systemic inflammation; key gum-disease bacteria (e.g. P. gingivalis) increase inflammatory markers such as IL-6, and their toxins have been found in the brain, where they may promote neuroinflammation and accelerate AD[4][5]
 
 Caveats:
 
