@@ -13,7 +13,7 @@ The protocol is organized by category and estimated impact, with recommendations
   - 💪 More is better
   - 💪 Mix zone 2, HIIT/VO2 max, strength training
 
-**[Health Markers](#health-markers)**
+**[Biomarkers](#biomarkers)**
   - 🩸 Blood pressure: 120/70
   - 🩸 LDL cholesterol: below 50 (positive effects start below 70)
   - 🩸 Fasting glucose: below 95
@@ -85,7 +85,7 @@ Sources:
 [8] [Handgrip strength and all-cause dementia incidence and mortality: findings from the UK Biobank prospective cohort study](https://pubmed.ncbi.nlm.nih.gov/35445560/) (June 2022)  
 [9] [Association of Cardiorespiratory Fitness With Long-term Mortality Among Adults Undergoing Exercise Treadmill Testing](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2707428) (10/19/2018)
 
-## Health Markers
+## Biomarkers
 
 The below vascular and nutritional markers can be measured using common blood tests.
 
@@ -97,7 +97,7 @@ Dr. Peter Attia considers lipid management (see LDL cholesterol below) and not h
 🩸 **LDL cholesterol:** below 50; positive effects start below 70[2]  
 🩸 **Fasting glucose:** below 95[2]
 
-See [Appendix > Health Marker Management Strategies](#health-marker-management-strategies) for additional information.
+See [Appendix > Biomarker Management Strategies](#biomarker-management-strategies) for additional information.
 
 Sources:  
 [1] [How to Save Your Brain From Cognitive Decline - Dr Peter Attia](https://www.youtube.com/watch?v=ThgschADQyQ) (5/17/2023)  
@@ -109,7 +109,7 @@ Sources:
 🩸 **Vitamin D:** 40-60 ng/mL with 50 ng/mL potentially being ideal[1][2]  
 🩸 **Omega-3 Index (a blood test of EPA+DHA as % of total fatty acids):** 8-12%[3]
 
-See [Appendix > Health Marker Management Strategies](#health-marker-management-strategies) for additional information.
+See [Appendix > Biomarker Management Strategies](#biomarker-management-strategies) for additional information.
 
 Sources:  
 [1] [AMA #46: Optimizing brain health: Alzheimer’s disease risk factors, APOE, prevention strategies, and more](https://peterattiamd.com/ama46/) (4/17/2023)  
@@ -510,7 +510,7 @@ Sources:
 [6] [Outlive (Chapter 9: Chasing Memory](https://peterattiamd.com/outlive/) (4/4/2022)  
 [7] [Handgrip strength and all-cause dementia incidence and mortality: findings from the UK Biobank prospective cohort study](https://pubmed.ncbi.nlm.nih.gov/35445560/) (June 2022)
 
-## Health Marker Management Strategies
+## Biomarker Management Strategies
 
 Blood pressure:
 
