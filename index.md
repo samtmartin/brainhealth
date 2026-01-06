@@ -61,6 +61,9 @@ The protocol is organized by category and estimated impact, with recommendations
   - 🦷 Floss daily
   - 🦷 Monitor gum health and visit the dentist regularly for thorough check-ups
 
+**[Hearing](#hearing)**
+  - 👂 Get hearing tested regularly and correct any hearing loss promptly with hearing aids
+
 ## Exercise
 
 Dr. Peter Attia and Dr. Richard Isaacson consider exercise the most effective way to protect against cognitive decline.[1][2][3]
@@ -408,7 +411,22 @@ Sources:
 
 ## Hearing
 
-Todo
+👂 **Get hearing tested regularly and correct any hearing loss promptly with hearing aids**[1]
+
+Why:
+
+* Hearing loss is associated with approximately a 90% increase in the risk of dementia and is viewed by the 
+* The Baltimore Longitudinal Study of Aging found a dose-response relationship between hearing loss severity and dementia risk: mild hearing loss (25-40 dB threshold) increased risk 89%, moderate hearing loss (41-70 dB threshold) increased risk 200%, severe hearing loss (>70 dB threshold)increase risk nearly 400%[2]
+* 2020 Lancet Commission on dementia views hearing loss as one of the most critical modifiable variables in the prevention of neurodegenerative disease[3]
+
+Caveats:
+
+* We do not yet have causal data that hearing loss impacts dementia (because the experiments have not been done)[1]
+
+Sources:  
+[1] [AMA #46: Optimizing brain health: Alzheimer's disease risk factors, APOE, prevention strategies, and more](https://peterattiamd.com/ama46/) (4/17/2023)  
+[2] [Hearing loss and incident dementia](https://pubmed.ncbi.nlm.nih.gov/21320988/) (February 2011)  
+[3] [Dementia prevention, intervention, and care: 2020 report of the Lancet Commission](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30367-6/fulltext) (7/30/2020)  
 
 ## Other Interventions
 
