@@ -63,6 +63,7 @@ The protocol is organized by category and estimated impact, with recommendations
 
 **[Other Interventions](#other-interventions)**
   - 👂 Get hearing tested regularly and correct any hearing loss promptly with hearing aids
+  - 🧠 Engage in complex, varied activities that challenge both brain and body (e.g. learning a new language, playing a musical instrument, or dancing)
 
 ## Exercise
 
@@ -429,6 +430,42 @@ Sources:
 [1] [AMA #46: Optimizing brain health: Alzheimer's disease risk factors, APOE, prevention strategies, and more](https://peterattiamd.com/ama46/) (4/17/2023)  
 [2] [Hearing loss and incident dementia](https://pubmed.ncbi.nlm.nih.gov/21320988/) (February 2011)  
 [3] [Dementia prevention, intervention, and care: 2020 report of the Lancet Commission](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30367-6/fulltext) (7/30/2020)  
+
+### Cognitive Engagement
+
+🧠 **Engage in complex, varied activities that challenge both brain and body:** Learning a new language, playing a musical instrument, or dancing can protect against cognitive decline[1][2][3]
+
+Why:
+
+* Dr. Peter Attia believes that the more neural networks and pathways built over a lifetime via education, experience, or developing complex skills, the more resistant to cognitive decline one will tend to be[3]
+* Systematic review and meta-analysis as well as a large prospective cohort study found that cognitively stimulating leisure activities are associated with a reduced risk of dementia and cognitive impairment later in life[4][5]; studies have found a strong association between playing musical instruments and lower risk of dementia[6][7]; studies have found that lifelong bilingualism is associated with delayed onset of dementia[8][9]
+* Study suggests that mentally demanding occupations are associated with lower rates of cognitive impairment and dementia compared to less demanding, repetitive roles[10]
+* A 2-year randomized controlled trial with 1,200+ at-risk older adults showed that interventions around nutrition, physical activity, and cognitive training helped maintain cognitive function and prevent cognitive decline[11]
+
+Caveats:
+
+* Brain games (e.g. crossword puzzles, Sudoku, etc.) by themselves don't appear to transfer to other cognitive abilities or protect against cognitive decline[1]; the key is variety and complexity, not repetitive games[3]
+* Healthy user bias makes data on cognitive engagement and prevention conflicted -- people who are more cognitively engaged may have other lifestyle factors contributing to lower dementia risk[3]
+
+How to use:
+
+* Engage in complex activities that challenge both brain and body, such as dancing, learning a new language, or playing a musical instrument[2][12]
+* Dr. Peter Attia recommends staying intellectually engaged throughout life: "We should think about retiring as a time when we don't work for money anymore. But I really think it's probably important that people are working throughout their entire lives, meaning they're working on something that is keeping their brain challenged."[2]
+* Dr. Richard Isaacson prescribes brain training exercises (through [alzu.org](http://alzu.org)) for 30 minutes twice a week[12]
+
+Sources:  
+[1] [AMA #46: Optimizing brain health: Alzheimer's disease risk factors, APOE, prevention strategies, and more](https://peterattiamd.com/ama46/) (4/17/2023)  
+[2] [AMA #60: Preventing cognitive decline, nutrition myths, lowering blood glucose, apoB, and blood pressure, and more](https://peterattiamd.com/ama60/) (6/17/2024)  
+[3] [Outlive (Chapter 9: Chasing Memory)](https://peterattiamd.com/outlive/) (4/4/2022)  
+[4] [Cognitive leisure activities and future risk of cognitive impairment and dementia: systematic review and meta-analysis](https://www.cambridge.org/core/journals/international-psychogeriatrics/article/abs/cognitive-leisure-activities-and-future-risk-of-cognitive-impairment-and-dementia-systematic-review-and-metaanalysis/62DC1367E760A45970FE207859D69E45) (8/9/2016)  
+[5] [Leisure activities and the risk of dementia in the elderly](https://pubmed.ncbi.nlm.nih.gov/12815136/) (6/19/2003)  
+[6] [Playing a musical instrument and the risk of dementia among older adults: a systematic review and meta-analysis of prospective cohort studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC9608922/) (10/27/2022)  
+[7] [Playing a Musical Instrument as a Protective Factor against Dementia and Cognitive Impairment: A Population-Based Twin Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC4269311/) (12/2/2014)  
+[8] [Bilingualism for Dementia: Neurological Mechanisms Associated With Functional and Structural Changes in the Brain](https://pmc.ncbi.nlm.nih.gov/articles/PMC6868000/) (11/14/2019)  
+[9] [Protective effect of bilingualism on aging, MCI, and dementia: A community‐based study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11032525) (2/20/2024)  
+[10] [Trajectories of Occupational Cognitive Demands and Risk of Mild Cognitive Impairment and Dementia in Later Life](https://pmc.ncbi.nlm.nih.gov/articles/PMC11175637/) (4/17/2024)  
+[11] [A 2 year multidomain intervention of diet, exercise, cognitive training, and vascular risk monitoring versus control to prevent cognitive decline in at-risk elderly people (FINGER): a randomised controlled trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60461-5/abstract) (6/6/2015)  
+[12] [Cognitive Engagement, Educational Attainment, Brain Training](https://vimeo.com/486493999/1b103c3881) (12/2/2020)  
 
 # Appendix
 
