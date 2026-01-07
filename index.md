@@ -61,7 +61,7 @@ The protocol is organized by category and estimated impact, with recommendations
   - 🦷 Floss daily
   - 🦷 Monitor gum health and visit the dentist regularly for thorough check-ups
 
-**[Hearing](#hearing)**
+**[Other Interventions](#other-interventions)**
   - 👂 Get hearing tested regularly and correct any hearing loss promptly with hearing aids
 
 ## Exercise
@@ -409,7 +409,9 @@ Sources:
 [4] [Porphyromonas gingivalis in Alzheimer’s disease brains: Evidence for disease causation and treatment with small-molecule inhibitors](https://www.science.org/doi/10.1126/sciadv.aau3333) (1/23/2019)  
 [5] [Systemic inflammation and disease progression in Alzheimer disease](https://pmc.ncbi.nlm.nih.gov/articles/PMC2848584/) (9/8/2009)  
 
-## Hearing
+## Other Interventions
+
+### Hearing
 
 👂 **Get hearing tested regularly and correct any hearing loss promptly with hearing aids**[1]
 
@@ -427,36 +429,6 @@ Sources:
 [1] [AMA #46: Optimizing brain health: Alzheimer's disease risk factors, APOE, prevention strategies, and more](https://peterattiamd.com/ama46/) (4/17/2023)  
 [2] [Hearing loss and incident dementia](https://pubmed.ncbi.nlm.nih.gov/21320988/) (February 2011)  
 [3] [Dementia prevention, intervention, and care: 2020 report of the Lancet Commission](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30367-6/fulltext) (7/30/2020)  
-
-## Other Interventions
-
-### Social Connection
-
-Todo
-
-### Sauna
-
-Todo
-
-### Stress Management
-
-Todo
-
-### Head Injuries
-
-Todo
-
-### Cognitive Engagement/Training
-
-Todo
-
-### Toxins
-
-Todo
-
-### Time Restricted Eating
-
-Todo
 
 # Appendix
 
