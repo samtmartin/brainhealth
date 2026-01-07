@@ -1,4 +1,6 @@
 title: Brain Health Protocol
+description: Evidence-based strategies for delaying or preventing cognitive decline, based on recommendations from Dr. Peter Attia and Dr. Richard Isaacson.
+url: https://brainhealth.dev
 
 markdown: kramdown
 kramdown:
@@ -14,3 +16,6 @@ defaults:
       path: ""
     values:
       layout: default
+
+plugins:
+  - jekyll-sitemap

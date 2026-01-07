@@ -1,0 +1,19 @@
+# Brain Health Protocol
+
+> Evidence-based strategies for delaying or preventing cognitive decline.
+
+This site provides a comprehensive protocol for brain health based on recommendations from Dr. Peter Attia (physician studying healthspan and lifespan) and Dr. Richard Isaacson (preventative neurologist), supported by peer-reviewed research.
+
+## Key Topics
+
+- Exercise: Zone 2, HIIT/VO2 max, and strength training for cognitive protection
+- Biomarkers: Target levels for blood pressure, LDL cholesterol, fasting glucose, homocysteine, vitamin D, and omega-3 index
+- Sleep: Optimal duration (7.5-8.5 hours) and sleep architecture (deep sleep, REM)
+- Nutrition: Foods to eat and avoid for brain health, including leafy greens, fatty fish, olive oil, and limiting sugar
+- Supplements: B vitamins, vitamin D, omega-3s, curcumin, cocoa flavanols, magnesium L-threonate
+- Oral health: Connection between gum disease and cognitive decline
+- Hearing: Importance of correcting hearing loss
+
+## Main URL
+
+https://brainhealth.dev
