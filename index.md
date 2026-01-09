@@ -64,6 +64,7 @@ The protocol is organized by category and estimated impact, with recommendations
 **[Other Interventions](#other-interventions)**
   - 👂 Get hearing tested regularly and correct any hearing loss promptly with hearing aids
   - 🧠 Engage in complex, varied activities that challenge both brain and body (e.g. learning a new language, playing a musical instrument, or dancing)
+  - 🧘 Manage/treat chronic stress, anxiety, and depression
 
 ## Exercise
 
@@ -466,6 +467,31 @@ Sources:
 [10] [Trajectories of Occupational Cognitive Demands and Risk of Mild Cognitive Impairment and Dementia in Later Life](https://pmc.ncbi.nlm.nih.gov/articles/PMC11175637/) (4/17/2024)  
 [11] [A 2 year multidomain intervention of diet, exercise, cognitive training, and vascular risk monitoring versus control to prevent cognitive decline in at-risk elderly people (FINGER): a randomised controlled trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60461-5/abstract) (6/6/2015)  
 [12] [Cognitive Engagement, Educational Attainment, Brain Training](https://vimeo.com/486493999/1b103c3881) (12/2/2020)  
+
+### Stress, Anxiety, and Depression
+
+🧘 **Manage/treat chronic stress, anxiety, and depression**
+
+Why:
+
+* Chronic or prolonged stress exposure is associated with an increased risk of later cognitive impairment and dementia[1][2][3]
+* Repetitive negative thinking patterns (characterized by worry and rumination) have been prospectively linked to cognitive decline, increased risk of progression toward dementia[2][4][5]
+* Depression (especially when recurrent, severe, or emerging in later life) is consistently associated with higher risk of developing dementia and with faster cognitive decline[6][7][8]; Dr. Richard Isaacson considers depression to be an independent risk factor for AD[9]
+
+Note: Mindfulness-Based Stress Reduction (MBSR) has consistently been found to reduce symptoms of stress, anxiety, and depression[9][10][11]
+
+Sources:  
+[1] [Stress, depression, and risk of dementia – a cohort study in the total population between 18 and 65 years old in Region Stockholm](https://pmc.ncbi.nlm.nih.gov/articles/PMC10544453) (10/2/2023)  
+[2] [Association of Stress with Risk of Dementia and Mild Cognitive Impairment: A Systematic Review and Meta-Analysis](https://pubmed.ncbi.nlm.nih.gov/34366334) (2021)  
+[3] [The Influence of Chronic Stress on Dementia-Related Diagnostic Change in Older Adults](https://pmc.ncbi.nlm.nih.gov/articles/PMC3290680) (7/1/2013)  
+[4] [Repetitive negative thinking is associated with subjective cognitive decline in older adults: a cross-sectional study](https://pmc.ncbi.nlm.nih.gov/articles/PMC7547434) (10/9/2020)  
+[5] [Repetitive negative thinking is associated with cognitive function decline in older adults: a cross-sectional study](https://pubmed.ncbi.nlm.nih.gov/40457276/) (6/2/2025)  
+[6] [Depression and risk for Alzheimer disease: systematic review, meta-analysis, and metaregression analysis](https://pubmed.ncbi.nlm.nih.gov/16651510/) (May 2006)  
+[7] [Late-life depression and risk of vascular dementia and Alzheimer's disease: systematic review and meta-analysis of community-based cohort studies](https://pubmed.ncbi.nlm.nih.gov/23637108/) (May 2013)  
+[8] [Depression as a Risk Factor for Dementia: A Meta-Analysis](https://pubmed.ncbi.nlm.nih.gov/38111332/) (2024)  
+[9] [Stress Management](https://vimeo.com/486577573/efcaf245d9) (12/2/2020)  
+[10] [Mindfulness-based stress reduction for healthy individuals: A meta-analysis](https://pubmed.ncbi.nlm.nih.gov/25818837/) (June 2015)  
+[11] [The effect of mindfulness-based therapy on anxiety and depression: A meta-analytic review](https://pubmed.ncbi.nlm.nih.gov/20350028/) (April 2010)  
 
 # Appendix
 
